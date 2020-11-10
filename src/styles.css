@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  height: 100vh;
+  overflow: hidden;
+}
+body,
+html {
+  height: -webkit-fill-available;
+}
+img {
+  width: 300px;
+  left: 0;
+  top: 0;
+}
+
+.draggable {
+  position: absolute;
+  filter: drop-shadow(1px 1px 4px white);
+}
