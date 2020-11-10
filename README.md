@@ -1,2 +1,4 @@
 # transparent-image-selection
-Created with CodeSandbox
+
+
+this is an example of using getImageData & elementFromPoint to implement interactions that rely on clicking the opaque region of an image 
